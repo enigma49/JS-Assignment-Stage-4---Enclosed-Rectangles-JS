@@ -6,8 +6,6 @@
 //      children: []
 //}
 
-const { parse } = require("@babel/core");
-
 function updateStructure(recA, recB) {
   //write your code
   if (contains(recA, recB)) {
