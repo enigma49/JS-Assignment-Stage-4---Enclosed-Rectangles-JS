@@ -65,8 +65,8 @@ function contains(recA, recB) {
   }
 }
 
-const T = 100000;
-const W = 100000;
+const T = 0;
+const W = 0;
 function normalise(rec) {
   return {
     x1: rec.top
