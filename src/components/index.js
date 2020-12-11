@@ -42,7 +42,7 @@ function relative(recA, recB){
 	if(recB.bottom){
 		res.bottom = `${recAn.x2 - recBn.x2}px`;
 	}
-	if(rec.right){
+	if(recB.right){
 		res.right = `${recAn.y2 -recBn.y2}px`;
 	}
 
